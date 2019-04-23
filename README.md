@@ -3,4 +3,6 @@ This is a training module
 
 *Training given by C&Ts*
 
-##Header Two
+## Header Two
+
+Hopefully this is detailed enough
