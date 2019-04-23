@@ -6,3 +6,5 @@ This is a training module
 ## Header Two
 
 Hopefully this is detailed enough
+
+THis will close the issue
